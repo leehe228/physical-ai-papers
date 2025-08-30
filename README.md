@@ -33,9 +33,7 @@
 
 - **MolmoAct: An Action Reasoning Model that reasons in 3D space** (Allen AI, 2025), [model](https://huggingface.co/collections/allenai/molmoact-689697591a3936fba38174d7), [dataset](https://huggingface.co/collections/allenai/molmoact-data-mixture-6897e583e13b6c2cf3ea2b80), [blog](https://allenai.org/blog/molmoact)
 
-## 2. Policy
-
-### 2.1 Diffusion Policy
+### 1.3 Diffusion Policy (Diffusion-based Action Model)
 
 - **Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control** (UC Berkeley, 2025) [paper](https://arxiv.org/pdf/2503.11801), [project](https://diffusecloc.github.io/website/)
 - **(Survey) A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions** (Song et al., 2025) [paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/252556/preprint_pdf/ff7315a28c7f1f75d985389927fcb645.pdf)
@@ -43,9 +41,9 @@
 - **(Medical) SuFIA: Language-Guided Augmented Dexterity for Robotic Surgical Assistants** (University of Toronto, IROS 2024) [paper](https://arxiv.org/pdf/2405.05226), [project](https://orbit-surgical.github.io/sufia/)
 - **Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation** (Tsinghua University, 2025) [paper](https://arxiv.org/pdf/2503.02881)
 
-## 3. Data Collection
+## 2. Data Collection
 
-### 3.1 Data Collection & Training
+### 2.1 Data Collection & Training
 
 - **Adapt3R: Adaptive 3D Scene Representation for Domain Transfer in Imitation Learning** (Georgia Institute of Technology, 2025) [paper](https://arxiv.org/abs/2503.04877), [project](http://www.pair.toronto.edu/Adapt3R/), [github](https://github.com/pairlab/Adapt3R)
 - **Robot Trains Robot: Automatic Real-World Policy: Adaptation and Learning for Humanoids** (Stanford, CoRL 2025) [paper](https://robot-trains-robot.github.io/rtr.pdf), [project](https://robot-trains-robot.github.io/), [github](https://github.com/hukz18/Robot-Trains-Robot)
@@ -53,26 +51,26 @@
 - **Masquerade: Learning from In-the-wild Human Videos using Data-Editing** (Stanford, 2025) [paper](https://arxiv.org/pdf/2508.09976), [project](https://masquerade-robot.github.io/)
 - [linkedIn](https://www.linkedin.com/posts/ilir-aliu_robotics-has-a-billion-dollar-failure-problem-activity-7360558587842039809-I7cA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiwsCgBQYl9HXlyHzfMMl7jL6de1VcuAqs)
 
-## 4. Data Representation and World Model
+## 3. Data Representation and World Model
 
-### 4.1 World Model
+### 3.1 World Model
 
-## 5. Benchmark and Simulator
+## 4. Benchmark and Simulator
 
-### 5.1 Simulator
+### 4.1 Simulator
 
 - **(Medical) ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity** (University of Toronto, UC Berkeley, NVIDIA, ICRA 2024) [paper](https://arxiv.org/pdf/2404.16027), [project](https://orbit-surgical.github.io/), [code](https://github.com/orbit-surgical/orbit-surgical), [blog](https://blogs.nvidia.com/blog/orbit-surgical-robotics-research-icra/)
 
-### 5.2 Benchmark
+### 4.2 Benchmark
 
 - **BEHAVIOR-1K** (Stanford) [project](https://behavior.stanford.edu/index.html#setup), [github](https://github.com/StanfordVL/BEHAVIOR-1K)
 
-## 6. Backbone Models
+## 5. Backbone Models
 
-### 6.1 Diffusion
+### 5.1 Diffusion
 
 - **Physics-Informed Diffusion Models** (ETH Zurich, 2025) [paper](https://arxiv.org/pdf/2403.14404)
 
-## 7. ETC
+## 6. ETC
 
 - **Hearing the Slide: Acoustic-Guided Constraint Learning for Fast Non-Prehensile Transport** (CMU, 2025) [paper](https://fast-non-prehensile.github.io/content/hearing_the_slide.pdf), [project](https://fast-non-prehensile.github.io/)
