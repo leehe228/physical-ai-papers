@@ -40,6 +40,7 @@
 - **Diffusion Policy Policy Optimization** (Princeton University, CMU, 2024) [paper](https://arxiv.org/pdf/2409.00588), [project](https://diffusion-ppo.github.io/), [github](https://github.com/irom-princeton/dppo)
 - **(Medical) SuFIA: Language-Guided Augmented Dexterity for Robotic Surgical Assistants** (University of Toronto, IROS 2024) [paper](https://arxiv.org/pdf/2405.05226), [project](https://orbit-surgical.github.io/sufia/)
 - **Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation** (Tsinghua University, 2025) [paper](https://arxiv.org/pdf/2503.02881)
+- **Autoregressive Reasoning and Diffusion Policies for Generalizable Vision-Language-Action Models** (Media Group, ICML 2025) [paper](https://arxiv.org/pdf/2412.03293), [project](https://diffusion-vla.github.io), [github](https://github.com/juruobenruo/DexVLA)
 
 ## 2. Data Collection
 
